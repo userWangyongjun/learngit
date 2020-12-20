@@ -4,4 +4,3 @@ www
 测试合并
 
 测试 commit --amend 命令
-测试 commit --amend 命令
